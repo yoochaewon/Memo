@@ -1,7 +1,7 @@
 {
     "products": {
         "lancome": {
-            "Lipstick": {
+            "lipcolor": {
                 "1234567890123": {
                     "shadeArray": [
                         {
@@ -117,7 +117,7 @@
                     ]
                 }
             },
-            "Blush": {
+            "blush": {
                 "1234567890125": {
                     "shadeArray": [
                         {
