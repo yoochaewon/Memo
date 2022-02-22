@@ -1,0 +1,79 @@
+{
+    "message": null,
+    "resultCode": 1,
+    "navigationType": "01",
+    "tilesTemplateType": "default",
+    "appbarType": "01",
+    "result": [
+        {
+            "category": "Foundation",
+            "products": [
+                {
+                    "dcprice": "37.05",
+                    "g": "185",
+                    "b": "152",
+                    "goosimg": "goos/etc/102542600226.jpg",
+                    "brancd": "025401",
+                    "a": "255",
+                    "goosnm": "엑스트라 디멘션 스킨피니쉬 ",
+                    "gloss": "0",
+                    "rgbClr": "#fab998",
+                    "amount": "1",
+                    "category": "Foundation",
+                    "price": "39",
+                    "gooscd": "10254260022601",
+                    "brannm": "맥",
+                    "r": "250",
+                    "textureimg": "goos/0254/20190306/f5ca6f2a.jpg",
+                    "pricewon": "44445",
+                    "glitter": "0"
+                },
+                {
+                    "dcprice": "37.05",
+                    "g": "185",
+                    "b": "143",
+                    "goosimg": "goos/etc/102542600254.jpg",
+                    "brancd": "025401",
+                    "a": "255",
+                    "goosnm": "엑스트라 디멘션 스킨피니쉬 ",
+                    "gloss": "0",
+                    "rgbClr": "#f1b98f",
+                    "amount": "1",
+                    "category": "Foundation",
+                    "price": "39",
+                    "gooscd": "10254260025401",
+                    "brannm": "맥",
+                    "r": "241",
+                    "textureimg": "goos/0254/20190306/e8947073.jpg",
+                    "pricewon": "44445",
+                    "glitter": "0"
+                }
+            ]
+        },
+        {
+            "category": "Lip",
+            "products": [
+                {
+                    "dcprice": "37.05",
+                    "g": "216",
+                    "b": "190",
+                    "goosimg": "goos/etc/102542600090.jpg",
+                    "brancd": "025401",
+                    "a": "255",
+                    "goosnm": "엑스트라 디멘션 스킨피니쉬 ",
+                    "gloss": "0",
+                    "rgbClr": "#ffd8be",
+                    "amount": "1",
+                    "category": "Lip",
+                    "price": "39",
+                    "gooscd": "10254260009001",
+                    "brannm": "맥",
+                    "r": "255",
+                    "textureimg": "goos/0254/20190306/621e4ede.jpg",
+                    "pricewon": "44445",
+                    "glitter": "0"
+                }
+            ]
+        }
+    ]
+}
