@@ -1,4 +1,11 @@
- [
+{
+    "message": null,
+    "resultCode": 1,
+    "navigationType": "01",
+    "tilesTemplateType": "default",
+    "appbarType": "01",
+    "result": 
+[
     {
         "category": "Lip",
         "products": [
@@ -929,3 +936,4 @@
         ]
     }
 ]
+}
